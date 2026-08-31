@@ -1,0 +1,5 @@
+# Forcer les fins de ligne LF : ces fichiers seront executes sous Linux (VM)
+*.sh   text eol=lf
+*.js   text eol=lf
+*.py   text eol=lf
+*.md   text eol=lf
