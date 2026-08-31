@@ -1,0 +1,7 @@
+node_modules/
+commandes.log
+*.csv
+*.tsv
+resultats*
+gnuplot*
+/tmp/
